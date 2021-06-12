@@ -1,0 +1,6 @@
+{
+    "html.format.enable": false,
+    "git.countBadge": "off",
+    "git.autoRepositoryDetection": false,
+    "explorer.decorations.colors": false
+}
